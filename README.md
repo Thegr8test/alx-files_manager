@@ -27,4 +27,6 @@
 
 4. To store temporary data in Redis
 
-5. To setup and use a background worker
+5. To setup and use a background worker. 
+
+End of file.
